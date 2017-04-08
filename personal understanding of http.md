@@ -1,1 +1,0 @@
-# Personal Understanding of HTTP
