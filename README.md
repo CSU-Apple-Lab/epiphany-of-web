@@ -16,9 +16,9 @@
 
 # 目录
 
-- 计算机基础篇：
+- [计算机基础篇]
 
-- 前端入门篇：
+- [前端入门篇](https://github.com/CSU-Apple-Lab/epiphany-of-web/blob/master/2.md)
 
 - 前端进阶篇：
 
