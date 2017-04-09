@@ -12,30 +12,26 @@ web工程师入门不完全指南。
 [![Zijin Xiao](https://avatars2.githubusercontent.com/u/22200374?v=3&s=100 "Donny-Hikari")](https://github.com/Donny-Hikari)
 
 
-
-
-
-
 >最后，我想说我很羡慕现在还是大一或者大二的同学，因为你们还有大量的时间可以学好基础，并且能够选择一个更好的方向，以及能得到他人的经验避免自己少走弯路。只要有坚定的目标，足够的努力，和正确的方法，你们有很大可能会比我们好出很多。
 
-目录
+# 目录
 
-计算机基础篇：
+- 计算机基础篇：
 
-前端入门篇：
+- 前端入门篇：
 
-前端进阶篇：
+- 前端进阶篇：
 
-前端高级篇：
+- 前端高级篇：
 
-后端入门篇：
+- 后端入门篇：
 
-后端进阶篇：
+- 后端进阶篇：
 
-后端高级篇：
+- 后端高级篇：
 
-工具篇：
+- 必备工具篇：
 
 
 # Powered by
-[![CSU Apple Lab](https://avatars1.githubusercontent.com/u/23062358?v=3&s=100 "CSU Apple Lab")](https://github.com/CSU-Apple-Lab)
+[![CSU APPLE WEB](https://raw.githubusercontent.com/CSU-Apple-Lab/epiphany-of-web/master/logo-web.png")
