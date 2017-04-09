@@ -34,4 +34,4 @@ web工程师入门不完全指南。
 
 
 # Powered by
-[![CSU APPLE WEB](https://raw.githubusercontent.com/CSU-Apple-Lab/epiphany-of-web/master/logo-web.png")
+![CSU APPLE WEB](https://raw.githubusercontent.com/CSU-Apple-Lab/epiphany-of-web/master/logo-web.png)
