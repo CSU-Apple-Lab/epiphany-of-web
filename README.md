@@ -21,17 +21,17 @@
 
 - [前端入门篇](https://github.com/CSU-Apple-Lab/epiphany-of-web/blob/master/2.md)
 
-- 前端进阶篇(https://github.com/CSU-Apple-Lab/epiphany-of-web/blob/master/3.md)
+- [前端进阶篇](https://github.com/CSU-Apple-Lab/epiphany-of-web/blob/master/3.md)
 
-- 前端高级篇(https://github.com/CSU-Apple-Lab/epiphany-of-web/blob/master/4.md)
+- [前端高级篇](https://github.com/CSU-Apple-Lab/epiphany-of-web/blob/master/4.md)
 
-- 后端入门篇(https://github.com/CSU-Apple-Lab/epiphany-of-web/blob/master/5.md)
+- [后端入门篇](https://github.com/CSU-Apple-Lab/epiphany-of-web/blob/master/5.md)
 
-- 后端进阶篇(https://github.com/CSU-Apple-Lab/epiphany-of-web/blob/master/6.md)
+- [后端进阶篇](https://github.com/CSU-Apple-Lab/epiphany-of-web/blob/master/6.md)
 
-- 后端高级篇(https://github.com/CSU-Apple-Lab/epiphany-of-web/blob/master/7.md)
+- [后端高级篇](https://github.com/CSU-Apple-Lab/epiphany-of-web/blob/master/7.md)
 
-- 必备工具篇(https://github.com/CSU-Apple-Lab/epiphany-of-web/blob/master/8.md)
+- [必备工具篇](https://github.com/CSU-Apple-Lab/epiphany-of-web/blob/master/8.md)
 
 
 ## Powered by
