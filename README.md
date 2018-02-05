@@ -7,7 +7,7 @@
 > 随后，我把这个想法分享给了校招去腾讯的zp他们，得到了大家一致赞成，然后分块完成，使得这个计划可以更加完全和快速的完成，其中这些贡献者包括：
 
 > [![Bugzhang](https://avatars2.githubusercontent.com/u/9525158?v=3&s=100 "Bugzhang")](https://github.com/rhythm1995)
-> [![zpnaruto](https://avatars2.githubusercontent.com/u/15168814?v=3&s=100 "zpnaruto")](https://github.com/rhythm1995)
+> [![zpnaruto](https://avatars2.githubusercontent.com/u/15168814?v=3&s=100 "zpnaruto")](https://github.com/zpnaruto)
 > [![Equim](https://avatars3.githubusercontent.com/u/17795845?v=3&s=100 "Equim")](https://github.com/Equim-chan)
 > [![長門有希](https://avatars3.githubusercontent.com/u/21074571?v=3&s=100 "Yuki-Nagato")](https://github.com/Yuki-Nagato)
 > [![Zijin Xiao](https://avatars3.githubusercontent.com/u/4846135?v=3&s=100 "Zijin Xiao")](https://github.com/jxpxxzj)
